@@ -4,7 +4,7 @@ Docker Registry is an powerful app that manages storing and delivering Docker co
 # Overview
 This implementation presents to topology or environments of docker private registry by using server in the Digitalocean. In detail, server is installed Ubuntu 20.04 and docker engine, therefore, the service will provide the docker registry on port TCP/5000 and front-end by using NGINX on port 443/80 (Secure SSL by CERT-BOT, Let's Encrypt ) shown as figure below:
 
-(/images/Network_topology.svg)
+![GitHub Logo](/images/Network_topology.svg)
 
 
 # Prerequisites
