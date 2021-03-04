@@ -334,10 +334,10 @@ docker login https://yourdomain.com
 
 
 # Reference 
-1. https://docs.docker.com/engine/install/ubuntu/
+1. Install docker: https://docs.docker.com/engine/install/ubuntu/
 2. How To Set Up a Private Docker Registry on Ubuntu 18.04: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-docker-registry-on-ubuntu-18-04
-3. https://www.freenom.com/en/freeandpaiddomains.html
-4. https://certbot.eff.org/
+3. Free domain: https://www.freenom.com/en/freeandpaiddomains.html
+4. Free SSL: https://certbot.eff.org/
 5. How To Install Nginx on Ubuntu 20.04: https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04
 6. Install docker on Ubuntu: https://docs.docker.com/engine/install/ubuntu/
 7. How To Install and Use Docker Compose on Ubuntu 20.04: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04
